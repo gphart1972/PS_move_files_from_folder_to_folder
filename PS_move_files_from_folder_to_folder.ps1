@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path "C:\source_path_example" -Recurse | Move-Item -Destination "C:\destination_path_example"
